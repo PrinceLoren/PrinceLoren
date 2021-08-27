@@ -2,12 +2,11 @@
 
 ## I'am beginner Youtuber and Frontend Developer 👋
 
-- 🔭 I’m currently working for myself
-- 🌱 I’m currently learning - ![](https://img.shields.io/badge/-React-important?style=for-the-badge&logo=React)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working for ![for myself](https://img.shields.io/badge/-For_Myself-<COLOR>)
+- 🌱 I’m currently learning - ![React](https://img.shields.io/badge/-React-<COLOR>)
+- 👯 I’m looking to collaborate on ![React](https://img.shields.io/badge/-React-<COLOR>)
+- 🤔 I’m looking for help with ![TypeScript](https://img.shields.io/badge/-TypeScript-<COLOR>)
+- 💬 Ask me about anything
 
 ### Languages and Tools
 
@@ -18,6 +17,7 @@
 ![Flutter](https://img.shields.io/badge/-Angular-lightgrey?style=for-the-badge&logo=Angular)
 ![Flutter](https://img.shields.io/badge/-MongoDB-important?style=for-the-badge&logo=MongoDB)
 ![Flutter](https://img.shields.io/badge/-Express-lightgrey?style=for-the-badge&logo=Express)
+![Flutter](https://img.shields.io/badge/-TypeScript-important?style=for-the-badge&logo=TypeScript)
 ![Flutter](https://img.shields.io/badge/-NPM-important?style=for-the-badge&logo=NPM)
 ![Flutter](https://img.shields.io/badge/-Gulp-blue?style=for-the-badge&logo=Gulp)
 ![Flutter](https://img.shields.io/badge/-Webpack-important?style=for-the-badge&logo=Webpack)
