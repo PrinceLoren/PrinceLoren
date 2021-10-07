@@ -3,7 +3,7 @@
 ## I'am beginner Youtuber and Frontend Developer 👋
 
 - 🔭 I’m currently working for ![for myself](https://img.shields.io/badge/-For_Myself-blue)
-- 🌱 I’m currently learning - ![React](https://img.shields.io/badge/-React-important)
+- 🌱 I’m currently learning - ![React](https://img.shields.io/badge/-React-important) ![NextJs](https://img.shields.io/badge/-React-important)
 - 👯 I’m looking to collaborate on ![React](https://img.shields.io/badge/-React-blue)
 - 🤔 I’m looking for help with ![TypeScript](https://img.shields.io/badge/-TypeScript-important)
 - 💬 Ask me about ![anything](https://img.shields.io/badge/-anything-blue)
