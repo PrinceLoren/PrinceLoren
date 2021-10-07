@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working for ![for myself](https://img.shields.io/badge/-For_Myself-blue)
 - 🌱 I’m currently learning - ![React](https://img.shields.io/badge/-React-important) ![NextJs](https://img.shields.io/badge/-NextJs-important)
-- 👯 I’m looking to collaborate on ![React](https://img.shields.io/badge/-React-blue)
+- 👯 I’m looking to collaborate on ![React](https://img.shields.io/badge/-React-blue) ![NextJs](https://img.shields.io/badge/-NextJs-important)
 - 🤔 I’m looking for help with ![TypeScript](https://img.shields.io/badge/-TypeScript-important)
 - 💬 Ask me about ![anything](https://img.shields.io/badge/-anything-blue)
 
