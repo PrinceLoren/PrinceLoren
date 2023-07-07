@@ -1,6 +1,6 @@
 ## I'am Frontend Developer 👋
 
-- 🔭 I’m currently working for ![for company](https://img.shields.io/badge/-For_Myself-blue)
+- 🔭 I’m currently working for ThinkEasy
 - 🌱 I’m currently work with - ![TypeScript](https://img.shields.io/badge/-TypeScript-important) ![NextJs](https://img.shields.io/badge/-NextJs-important) ![GraphQL + Apollo](https://img.shields.io/badge/-React-blue)
 - 👯 I’m looking to collaborate on ![NextJs](https://img.shields.io/badge/-React-blue) ![TypeScript](https://img.shields.io/badge/-NextJs-important)
 - 💬 Ask me about ![anything](https://img.shields.io/badge/-anything-blue)
